@@ -6,7 +6,7 @@ Make sure to have Node v12+ installed
 
 1. Clone repository
 ```
-git clone git@github
+git clone git@github.com:enrique-cardenas/Fetch-Rewards-Coding-Exercise.git
 ```
 
 2. In console navigate to repo root directory and install dependencies
